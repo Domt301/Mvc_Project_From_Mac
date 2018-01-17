@@ -84,6 +84,7 @@
     <Content Include="packages.config" />
     <Content Include="Scripts\knockout-3.4.2.js" />
     <Content Include="Scripts\knockout-3.4.2.debug.js" />
+    <Content Include="Views\Home\SecondView.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

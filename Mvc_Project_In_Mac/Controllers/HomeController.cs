@@ -21,5 +21,10 @@ namespace Mvc_Project_In_Mac.Controllers
 
             return View(model);
         }
+
+        public ActionResult SecondView()
+        {
+            return View();
+        }
     }
 }
